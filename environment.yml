@@ -1,0 +1,15 @@
+name: in_silico_metabolism
+dependencies:
+- jupyter=1.0.0
+- scipy=1.3.1
+- python=3.7
+- scikit-learn=0.21.3
+- rdkit
+- matplotlib
+- numpy=1.16.4
+- pandas=0.25.1
+- seaborn=0.10.1
+- jupyterlab=1.0.9
+- ipykernel=5.1.2
+- pip
+- sygma
