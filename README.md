@@ -2,8 +2,8 @@ in_silico_metabolism
 ==============================
 
 Analysis to support the comparison of the performance and coverage of selected in silico (liver) metabolism tools relative to reported studies in the literature. Associated publication: Boyce M, Meyer B, Grulke C, Lizarraga L, Patlewicz G. Comparing the performance and coverage of selected in silico (liver) metabolism tools relative to reported studies in the literature to inform analogue selection in read-across: A case study. *Computational Toxicology* **2021**, *in press* 
-
-Underlying data will be made available at: `https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/`
+https://doi.org/10.1016/j.comtox.2021.100208
+Underlying data will be made available at: `https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/` or DOI 10.5281/zenodo.15065129
 
 Project Organization
 ------------
